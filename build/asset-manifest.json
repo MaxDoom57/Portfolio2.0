@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.71b9381a.css",
+    "main.js": "/static/js/main.15bbf04a.js",
+    "static/media/cover.png": "/static/media/cover.07a951c641716b2bfcef.png",
+    "static/media/card1.png": "/static/media/card1.3746645bcffb1c22ffc5.png",
+    "static/media/myphoto.png": "/static/media/myphoto.a7fc49c52d07cc6901ae.png",
+    "static/media/card3.png": "/static/media/card3.b264799e375cee768a4d.png",
+    "static/media/python.png": "/static/media/python.684e81d417530a4d99ec.png",
+    "static/media/tkinter.png": "/static/media/tkinter.d8be8359fa5bd1a0461b.png",
+    "static/media/card2.jpg": "/static/media/card2.6e1180cc79314249f8e2.jpg",
+    "static/media/scrapy.png": "/static/media/scrapy.2768579ce95be4b0bf3a.png",
+    "static/media/Matplotlib.png": "/static/media/Matplotlib.108848d4569ad2010a41.png",
+    "static/media/react.png": "/static/media/react.57c4a49f6803d191097e.png",
+    "static/media/skt.png": "/static/media/skt.6e8fb972f2cbb25af1f6.png",
+    "static/media/oc.png": "/static/media/oc.619323d409ecad2e7c1b.png",
+    "index.html": "/index.html",
+    "main.71b9381a.css.map": "/static/css/main.71b9381a.css.map",
+    "main.15bbf04a.js.map": "/static/js/main.15bbf04a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71b9381a.css",
+    "static/js/main.15bbf04a.js"
+  ]
+}
