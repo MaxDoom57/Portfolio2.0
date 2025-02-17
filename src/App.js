@@ -22,7 +22,7 @@ function App() {
             "url('https://i.pinimg.com/736x/21/05/48/2105484dd1d336edcc21ee15693b9664.jpg')",
         }}
       >
-        <div className="text-white ">
+        <div className="text-white  ">
           <ul className="flex justify-center pt-8 space-x-10 font-segoe font-semibold">
             <li className="cursor-pointer">
               <a href="#home">Home</a>
